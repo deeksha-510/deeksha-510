@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**deeksha-510/deeksha-510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Deekshitha Reddy! 👋
 
-Here are some ideas to get you started:
+### Aspiring Data Analyst | B.Tech CSE Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Computer Science Engineering Student  
+🏫 Jain Institute of Technology, Davangere  
+📅 Graduation Year: 2027
+
+### 👩‍💻 About Me
+- Interested in Data Analytics and Technology.
+- Learning to transform data into meaningful insights.
+- Passionate about problem-solving and continuous learning.
+- Exploring real-world data analytics projects.
+
+### 🛠️ Technical Skills
+- Python
+- Java
+- SQL
+- DBMS
+
+### 🎯 Career Goal
+To become a skilled Data Analyst and use
+data-driven insights to solve real-world problems.
+
+### 🤝 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/deekshitha-reddy-347928300/
+
+**Always Learning | Always Growing 🚀**
