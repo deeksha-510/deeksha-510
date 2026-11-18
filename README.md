@@ -15,7 +15,6 @@
 
 ### 🛠️ Technical Skills
 - Python
-- Java
 - SQL
 - DBMS
 
